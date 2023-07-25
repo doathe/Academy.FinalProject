@@ -2,7 +2,7 @@
 At the end of 6 months ASP.Net Core Backend Bootcamp within SSTTEK Academy, I completed this project and successfully completed Bootcamp.
 I developed a basic E-Commerce WebAPI.
 
-* Used Technologies:
+# Used Technologies:
 
 - ASP.Net Core (.Net 6)
 - Entity Framework Core
